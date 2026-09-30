@@ -57,6 +57,14 @@ omarchy plugin add https://github.com/Thomster/omarchy-profile-idle.git --enable
 - power-profiles-daemon (`powerprofilesctl`), standard on Omarchy
 - Optional: omarchy-session-actions-power with gamemode, for the `game` profile
 
+## Related
+
+Knows the Game profile of [omarchy-session-actions-power](https://github.com/Thomster/omarchy-session-actions-power); without it the `game` profile never becomes active.
+
+## Changelog
+
+Current version: **1.0.1**. See [CHANGELOG.md](CHANGELOG.md).
+
 ## How this came to be
 
 This is a personal customization for my own Omarchy setup, built with the
