@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "profile-idle",
+  "name": "Profile Idle",
+  "version": "1.0.0",
+  "author": "Thomas",
+  "description": "Screensaver, lock and automatic system sleep timings per power profile, with 'never' for the Game profile. No bar icon.",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
